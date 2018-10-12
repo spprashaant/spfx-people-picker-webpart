@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "people-picker-webpart-client-side-solution",
+    "id": "ce3f232b-2f42-4661-a821-d1e8ff75eb86",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/people-picker-webpart.sppkg"
+  }
+}
